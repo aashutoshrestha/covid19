@@ -27,6 +27,7 @@
     <script src="assets/js/papaparse.min.js"></script>
     <script src="jvectormap/jquery-jvectormap-2.0.5.min.js"></script>
     <script src="jvectormap/jquery-jvectormap-world-mill.js"></script>
+    <script src="OpenLayers.js"></script>
 </head>
 
 <body style="background-color: rgb(255,255,255);">
@@ -54,7 +55,7 @@
         <div class="tab-content panel-body">
             <div class="tab-pane active" role="tabpanel" id="tab-1">
                 <script src='https://redditjs.com/subreddit.js' data-subreddit='Coronavirus'></script>
-                <table id="example" class="table table-striped table-bordered" cellspacing="0" width="50%">
+                <table id="example" class="table table-striped table-bordered" cellspacing="0" width="100%">
         <thead>
             <tr>
                 <th>Country</th>
@@ -69,13 +70,27 @@
         </tbody>
     </table></div>
             <div class="tab-pane" role="tabpanel" id="tab-2">
-                <p>Second tab content.</p>
+                <div id="demoMap" style="height:500px"></div>
+                <script type="text/javascript">
+                    var lat            = 47.35387;
+                    var lon            = 8.43609;
+                    var zoom           = 18;
+                
+                    var fromProjection = new OpenLayers.Projection("EPSG:4326");   // Transform from WGS 1984
+                    var toProjection   = new OpenLayers.Projection("EPSG:900913"); // to Spherical Mercator Projection
+                    var position       = new OpenLayers.LonLat(lon, lat).transform( fromProjection, toProjection);
+                
+                    map = new OpenLayers.Map("demoMap");
+                    var mapnik         = new OpenLayers.Layer.OSM();
+                    map.addLayer(mapnik);
+                
+                    var markers = new OpenLayers.Layer.Markers( "Markers" );
+                    map.addLayer(markers);
+                    markers.addMarker(new OpenLayers.Marker(position));
+                
+                    map.setCenter(position, zoom);
+                </script>
             </div>
-            <script>
-                $(function(){
-                  $('#tab-2').vectorMap({map: 'world_mill'});
-                });
-              </script>
             <div class="tab-pane" role="tabpanel" id="tab-3">
                 <p>Third tab content.</p>
             </div>
