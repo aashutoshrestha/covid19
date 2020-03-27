@@ -1,0 +1,5 @@
+select COUNTRY, sum(INFECTED) as INFECTED, sum(DEAD) as DEAD, sum(RECOVERED) as RECOVERED,
+       sum(ACTIVE) as ACTIVE
+from jhucovid19data
+group by COUNTRY
+order by INFECTED desc
