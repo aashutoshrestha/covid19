@@ -3,3 +3,7 @@ select COUNTRY, sum(INFECTED) as INFECTED, sum(DEAD) as DEAD, sum(RECOVERED) as 
 from jhucovid19data
 group by COUNTRY
 order by INFECTED desc
+
+
+select Country_Region as COUNTRY, sum(Confirmed) as INFECTED, sum(Deaths) as DEAD, sum(Recovered) as RECOVERED, sum(ACTIVE) as ACTIVE, avg(Lat) as LATITUDE, avg(Long_) as LONGITUDE FROM jhucovid19datamap group by Country_Region order by INFECTED desc 
+select Country_Region as COUNTRY, sum(Confirmed) as INFECTED, sum(Deaths) as DEAD, sum(Recovered) as RECOVERED, sum(ACTIVE) as ACTIVE FROM jhucovid19data group by Country_Region order by INFECTED desc 

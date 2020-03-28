@@ -1,175 +1,176 @@
-US,83836,1209,681,0
-China,81782,3291,74181,4310
-Italy,80589,8215,10361,62013
-Spain,57786,4365,7015,46406
-Germany,43938,267,5673,37998
-France,29551,1698,4955,22898
-Iran,29406,2234,10457,16715
-United Kingdom,11812,580,150,11082
-Switzerland,11811,191,131,11489
-Korea South,9241,131,4144,4966
-Netherlands,7468,435,6,7027
-Austria,6909,49,112,6748
-Belgium,6235,220,675,5340
-Canada,4042,38,184,0
-Turkey,3629,75,26,3528
-Portugal,3544,60,43,3441
-Norway,3369,14,6,3349
-Brazil,2985,77,6,2902
-Sweden,2840,77,16,2747
-Australia,2810,13,172,2625
-Israel,2693,8,68,2617
-Malaysia,2031,23,215,1793
-Denmark,2023,41,50,1932
-Czechia,1925,9,10,1906
-Ireland,1819,19,5,1795
-Luxembourg,1453,9,6,1438
-Ecuador,1403,34,3,1366
-Japan,1387,47,359,981
-Chile,1306,4,22,1280
-Poland,1221,16,7,1198
-Pakistan,1201,9,21,1171
-Thailand,1045,4,88,953
-Romania,1029,23,94,912
-Saudi Arabia,1012,3,33,976
-Finland,958,5,10,943
-South Africa,927,0,12,915
-Indonesia,893,78,35,780
-Greece,892,26,36,830
-Russia,840,3,38,799
-Iceland,802,2,82,718
-India,727,20,45,662
-Diamond Princess,712,10,597,105
-Philippines,707,45,28,634
-Singapore,683,2,172,509
-Peru,580,9,14,557
-Slovenia,562,6,10,546
-Panama,558,8,2,548
-Qatar,549,0,43,506
-Estonia,538,1,8,529
-Argentina,502,9,63,430
-Egypt,495,24,102,369
-Croatia,495,3,22,470
-Colombia,491,6,8,477
-Dominican Republic,488,10,3,475
-Mexico,475,6,4,465
-Bahrain,458,4,204,250
-Serbia,384,1,0,383
-Iraq,382,36,105,241
-Lebanon,368,6,23,339
-Algeria,367,25,29,313
-United Arab Emirates,333,2,52,279
-Lithuania,299,4,1,294
-Armenia,290,1,18,271
-New Zealand,283,0,27,256
-Morocco,275,11,8,256
-Bulgaria,264,3,8,253
-Hungary,261,10,28,223
-Taiwan*,252,2,29,221
-Latvia,244,0,1,243
-Costa Rica,231,2,2,227
-Slovakia,226,0,2,224
-Andorra,224,3,1,220
-Uruguay,217,0,0,217
-Jordan,212,0,1,211
-Kuwait,208,0,49,159
-San Marino,208,21,4,183
-North Macedonia,201,3,3,195
-Tunisia,197,6,2,189
-Ukraine,196,5,1,190
-Bosnia and Herzegovina,191,3,2,186
-Moldova,177,1,2,174
-Albania,174,6,17,151
-Vietnam,153,0,20,133
-Burkina Faso,152,7,10,135
-Cyprus,146,3,4,139
-Malta,134,0,2,132
-Ghana,132,4,1,127
-Azerbaijan,122,3,15,104
-Brunei,114,0,5,109
-Kazakhstan,111,1,2,108
-Oman,109,0,23,86
-Venezuela,107,0,15,92
-Sri Lanka,106,0,7,99
-Senegal,105,0,9,96
-Cote d'Ivoire,96,0,3,93
-Cambodia,96,0,10,86
-Afghanistan,94,4,2,88
-Belarus,86,0,29,57
-West Bank and Gaza,84,1,17,66
-Mauritius,81,2,0,79
-Georgia,79,0,11,68
-Cameroon,75,1,2,72
-Uzbekistan,75,0,0,75
-Kosovo,71,1,0,70
-Montenegro,69,1,0,68
-Cuba,67,2,1,64
-Trinidad and Tobago,65,1,0,64
-Nigeria,65,1,2,62
-Liechtenstein,56,0,0,56
-Honduras,52,1,0,51
-Congo (Kinshasa),51,3,0,48
-Rwanda,50,0,0,50
-Kyrgyzstan,44,0,0,44
-Bangladesh,44,5,11,28
-Bolivia,43,0,0,43
-Paraguay,41,3,0,38
-Monaco,33,0,1,32
-Kenya,31,1,1,29
-Jamaica,26,1,2,23
-Guatemala,25,1,4,20
-Togo,23,0,1,22
-Madagascar,23,0,0,23
-Barbados,18,0,0,18
-Zambia,16,0,0,16
-Uganda,14,0,0,14
-Maldives,13,0,8,5
-El Salvador,13,0,0,13
-Tanzania,13,0,0,13
-Ethiopia,12,0,0,12
-Equatorial Guinea,12,0,0,12
-Mongolia,11,0,0,11
-Dominica,11,0,0,11
-Djibouti,11,0,0,11
-Niger,10,1,0,9
-Bahamas,9,0,1,8
-Namibia,8,0,2,6
-Haiti,8,0,0,8
-Suriname,8,0,0,8
-Mozambique,7,0,0,7
-Seychelles,7,0,0,7
-Antigua and Barbuda,7,0,0,7
-Grenada,7,0,0,7
-Gabon,7,1,0,6
-Eritrea,6,0,0,6
-Eswatini,6,0,0,6
-Benin,6,0,0,6
-Laos,6,0,0,6
-Guyana,5,1,0,4
-Fiji,5,0,0,5
-Syria,5,0,0,5
-Congo (Brazzaville),4,0,0,4
-Holy See,4,0,0,4
-Angola,4,0,0,4
-Cabo Verde,4,1,0,3
-Mali,4,0,0,4
-Guinea,4,0,0,4
-Mauritania,3,0,0,3
-Sudan,3,1,0,2
-Chad,3,0,0,3
-Nepal,4,0,1,3
-Saint Lucia,3,0,0,3
-Gambia,3,1,0,2
-Central African Republic,3,0,0,3
-Liberia,3,0,0,3
-Zimbabwe,3,1,0,2
-Belize,2,0,0,2
-Bhutan,2,0,0,2
-Guinea-Bissau,2,0,0,2
-Nicaragua,2,0,0,2
-Somalia,2,0,0,2
-Saint Kitts and Nevis,2,0,0,2
-Saint Vincent and the Grenadines,1,0,0,1
-Timor-Leste,1,0,0,1
-Libya,1,0,0,1
-Papua New Guinea,1,0,0,1
+"US","101657","1581","869","0"
+"Italy","86498","9134","10950","66414"
+"China","81897","3296","74720","3881"
+"Spain","65719","5138","9357","51224"
+"Germany","50871","342","6658","43871"
+"France","33402","1997","5707","25698"
+"Iran","32332","2378","11133","18821"
+"United Kingdom","14745","761","151","13833"
+"Switzerland","12928","231","1530","11167"
+"Korea, South","9332","139","4528","4665"
+"Netherlands","8647","547","6","8094"
+"Austria","7657","58","225","7374"
+"Belgium","7284","289","858","6137"
+"Turkey","5698","92","42","5564"
+"Canada","4682","54","256","0"
+"Portugal","4268","76","43","4149"
+"Norway","3755","19","6","3730"
+"Brazil","3417","92","6","3319"
+"Australia","3143","13","194","2936"
+"Sweden","3069","105","16","2948"
+"Israel","3035","12","79","2944"
+"Czechia","2279","9","11","2259"
+"Denmark","2200","52","57","2091"
+"Malaysia","2161","26","259","1876"
+"Ireland","2121","22","5","2094"
+"Chile","1610","5","43","1562"
+"Luxembourg","1605","15","40","1550"
+"Ecuador","1595","36","3","1556"
+"Japan","1468","49","372","1047"
+"Poland","1389","16","7","1366"
+"Pakistan","1373","11","23","1339"
+"Romania","1292","26","115","1151"
+"South Africa","1170","1","31","1138"
+"Thailand","1136","5","97","1034"
+"Saudi Arabia","1104","3","35","1066"
+"Indonesia","1046","87","46","913"
+"Finland","1041","7","10","1024"
+"Russia","1036","4","45","987"
+"Greece","966","28","52","886"
+"Iceland","890","2","97","791"
+"India","887","20","73","794"
+"Philippines","803","54","31","718"
+"Singapore","732","2","183","547"
+"Diamond Princess","712","10","597","105"
+"Panama","674","9","2","663"
+"Peru","635","11","16","608"
+"Slovenia","632","9","10","613"
+"Argentina","589","13","72","504"
+"Croatia","586","3","37","546"
+"Mexico","585","8","4","573"
+"Dominican Republic","581","20","3","558"
+"Estonia","575","1","11","563"
+"Qatar","562","0","43","519"
+"Colombia","539","6","10","523"
+"Egypt","536","30","116","390"
+"Bahrain","466","4","227","235"
+"Iraq","458","40","122","296"
+"Serbia","457","1","0","456"
+"Algeria","409","26","29","354"
+"United Arab Emirates","405","2","52","351"
+"Lebanon","391","8","27","356"
+"New Zealand","368","0","37","331"
+"Lithuania","358","5","1","352"
+"Morocco","345","23","11","311"
+"Armenia","329","1","28","300"
+"Ukraine","310","5","5","300"
+"Hungary","300","10","34","256"
+"Bulgaria","293","3","9","281"
+"Latvia","280","0","1","279"
+"Slovakia","269","0","2","267"
+"Andorra","267","3","1","263"
+"Taiwan*","267","2","29","236"
+"Costa Rica","263","2","3","258"
+"Uruguay","238","0","0","238"
+"Bosnia and Herzegovina","237","4","5","228"
+"Jordan","235","1","18","216"
+"Tunisia","227","6","2","219"
+"Kuwait","225","0","57","168"
+"San Marino","223","21","4","198"
+"North Macedonia","219","3","3","213"
+"Moldova","199","2","2","195"
+"Albania","186","8","31","147"
+"Burkina Faso","180","9","12","159"
+"Azerbaijan","165","3","15","147"
+"Vietnam","163","0","20","143"
+"Cyprus","162","5","15","142"
+"Kazakhstan","150","1","3","146"
+"Malta","139","0","2","137"
+"Ghana","137","4","2","131"
+"Oman","131","0","23","108"
+"Senegal","119","0","11","108"
+"Brunei","115","0","11","104"
+"Afghanistan","110","4","2","104"
+"Venezuela","107","1","31","75"
+"Sri Lanka","106","0","7","99"
+"Cote d'Ivoire","101","0","3","98"
+"Cambodia","99","0","11","88"
+"Mauritius","94","2","0","92"
+"Belarus","94","0","32","62"
+"West Bank and Gaza","91","1","17","73"
+"Cameroon","91","2","2","87"
+"Uzbekistan","88","1","5","82"
+"Kosovo","86","1","1","84"
+"Georgia","83","0","14","69"
+"Montenegro","82","1","0","81"
+"Cuba","80","2","4","74"
+"Nigeria","70","1","3","66"
+"Honduras","68","1","0","67"
+"Trinidad and Tobago","66","2","1","63"
+"Bolivia","61","0","0","61"
+"Kyrgyzstan","58","0","0","58"
+"Liechtenstein","56","0","0","56"
+"Rwanda","54","0","0","54"
+"Paraguay","52","3","1","48"
+"Congo (Kinshasa)","51","3","2","46"
+"Bangladesh","48","5","11","32"
+"Monaco","42","0","1","41"
+"Kenya","31","1","1","29"
+"Guatemala","28","1","4","23"
+"Madagascar","26","0","0","26"
+"Jamaica","26","1","2","23"
+"Togo","25","1","1","23"
+"Barbados","24","0","0","24"
+"Uganda","23","0","0","23"
+"Zambia","22","0","0","22"
+"Ethiopia","16","0","0","16"
+"Maldives","16","0","9","7"
+"Tanzania","13","0","1","12"
+"El Salvador","13","0","0","13"
+"Equatorial Guinea","12","0","0","12"
+"Djibouti","12","0","0","12"
+"Dominica","11","0","0","11"
+"Mali","11","0","0","11"
+"Mongolia","11","0","0","11"
+"Bahamas","10","0","1","9"
+"Niger","10","1","0","9"
+"Eswatini","9","0","0","9"
+"Namibia","8","0","2","6"
+"Suriname","8","0","0","8"
+"Haiti","8","0","0","8"
+"Guinea","8","0","0","8"
+"Burma","8","0","0","8"
+"Antigua and Barbuda","7","0","0","7"
+"Grenada","7","0","0","7"
+"Gabon","7","1","0","6"
+"Mozambique","7","0","0","7"
+"Seychelles","7","0","0","7"
+"Laos","6","0","0","6"
+"Benin","6","0","0","6"
+"Eritrea","6","0","0","6"
+"Syria","5","0","0","5"
+"Fiji","5","0","0","5"
+"Cabo Verde","5","1","0","4"
+"Zimbabwe","5","1","0","4"
+"Guyana","5","1","0","4"
+"Holy See","4","0","0","4"
+"Angola","4","0","0","4"
+"Congo (Brazzaville)","4","0","0","4"
+"Nepal","4","0","1","3"
+"Saint Lucia","3","0","1","2"
+"Gambia","3","1","0","2"
+"Somalia","3","0","0","3"
+"Central African Republic","3","0","0","3"
+"Liberia","3","0","0","3"
+"Bhutan","3","0","0","3"
+"Mauritania","3","0","0","3"
+"Sudan","3","1","0","2"
+"Chad","3","0","0","3"
+"Nicaragua","2","1","0","1"
+"Belize","2","0","0","2"
+"Guinea-Bissau","2","0","0","2"
+"Saint Kitts and Nevis","2","0","0","2"
+"Libya","1","0","0","1"
+"Papua New Guinea","1","0","0","1"
+"Saint Vincent and the Grenadines","1","0","0","1"
+"Timor-Leste","1","0","0","1"
